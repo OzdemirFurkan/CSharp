@@ -1,0 +1,6 @@
+C:\Users\ASUS\Documents\GitHub\C# Samples\Fibonacci-Serisi\Fibonacci-Serisi\bin\Debug\Fibonacci-Serisi.exe.config
+C:\Users\ASUS\Documents\GitHub\C# Samples\Fibonacci-Serisi\Fibonacci-Serisi\obj\Debug\Fibonacci-Serisi.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\GitHub\C# Samples\Fibonacci-Serisi\Fibonacci-Serisi\bin\Debug\Fibonacci-Serisi.exe
+C:\Users\ASUS\Documents\GitHub\C# Samples\Fibonacci-Serisi\Fibonacci-Serisi\bin\Debug\Fibonacci-Serisi.pdb
+C:\Users\ASUS\Documents\GitHub\C# Samples\Fibonacci-Serisi\Fibonacci-Serisi\obj\Debug\Fibonacci-Serisi.exe
+C:\Users\ASUS\Documents\GitHub\C# Samples\Fibonacci-Serisi\Fibonacci-Serisi\obj\Debug\Fibonacci-Serisi.pdb

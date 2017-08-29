@@ -1,0 +1,6 @@
+C:\Users\ASUS\Documents\GitHub\C# Samples\Anti-Diagon-Matrix\Anti-Diagon-Matrix\bin\Debug\Anti-Diagon-Matrix.exe.config
+C:\Users\ASUS\Documents\GitHub\C# Samples\Anti-Diagon-Matrix\Anti-Diagon-Matrix\bin\Debug\Anti-Diagon-Matrix.exe
+C:\Users\ASUS\Documents\GitHub\C# Samples\Anti-Diagon-Matrix\Anti-Diagon-Matrix\bin\Debug\Anti-Diagon-Matrix.pdb
+C:\Users\ASUS\Documents\GitHub\C# Samples\Anti-Diagon-Matrix\Anti-Diagon-Matrix\obj\Debug\Anti-Diagon-Matrix.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\GitHub\C# Samples\Anti-Diagon-Matrix\Anti-Diagon-Matrix\obj\Debug\Anti-Diagon-Matrix.exe
+C:\Users\ASUS\Documents\GitHub\C# Samples\Anti-Diagon-Matrix\Anti-Diagon-Matrix\obj\Debug\Anti-Diagon-Matrix.pdb
