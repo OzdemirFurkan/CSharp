@@ -1,0 +1,9 @@
+C:\Users\ASUS\Documents\GitHub\C# Samples\DelegateSample\DelegateSample\bin\Debug\DelegateSample.exe.config
+C:\Users\ASUS\Documents\GitHub\C# Samples\DelegateSample\DelegateSample\bin\Debug\DelegateSample.exe
+C:\Users\ASUS\Documents\GitHub\C# Samples\DelegateSample\DelegateSample\bin\Debug\DelegateSample.pdb
+C:\Users\ASUS\Documents\GitHub\C# Samples\DelegateSample\DelegateSample\obj\Debug\DelegateSample.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\GitHub\C# Samples\DelegateSample\DelegateSample\obj\Debug\DelegateSample.FormDelegate.resources
+C:\Users\ASUS\Documents\GitHub\C# Samples\DelegateSample\DelegateSample\obj\Debug\DelegateSample.Properties.Resources.resources
+C:\Users\ASUS\Documents\GitHub\C# Samples\DelegateSample\DelegateSample\obj\Debug\DelegateSample.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\GitHub\C# Samples\DelegateSample\DelegateSample\obj\Debug\DelegateSample.exe
+C:\Users\ASUS\Documents\GitHub\C# Samples\DelegateSample\DelegateSample\obj\Debug\DelegateSample.pdb

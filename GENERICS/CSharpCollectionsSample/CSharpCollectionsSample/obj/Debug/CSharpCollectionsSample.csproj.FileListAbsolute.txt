@@ -1,0 +1,16 @@
+C:\Users\ASUS\Documents\GitHub\Learning\CSharpCollectionsSample\CSharpCollectionsSample\bin\Debug\CSharpCollectionsSample.exe.config
+C:\Users\ASUS\Documents\GitHub\Learning\CSharpCollectionsSample\CSharpCollectionsSample\bin\Debug\CSharpCollectionsSample.exe
+C:\Users\ASUS\Documents\GitHub\Learning\CSharpCollectionsSample\CSharpCollectionsSample\bin\Debug\CSharpCollectionsSample.pdb
+C:\Users\ASUS\Documents\GitHub\Learning\CSharpCollectionsSample\CSharpCollectionsSample\obj\Debug\CSharpCollectionsSample.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\GitHub\Learning\CSharpCollectionsSample\CSharpCollectionsSample\obj\Debug\CSharpCollectionsSample.ArrayLists.resources
+C:\Users\ASUS\Documents\GitHub\Learning\CSharpCollectionsSample\CSharpCollectionsSample\obj\Debug\CSharpCollectionsSample.FormStack.resources
+C:\Users\ASUS\Documents\GitHub\Learning\CSharpCollectionsSample\CSharpCollectionsSample\obj\Debug\CSharpCollectionsSample.Properties.Resources.resources
+C:\Users\ASUS\Documents\GitHub\Learning\CSharpCollectionsSample\CSharpCollectionsSample\obj\Debug\CSharpCollectionsSample.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\GitHub\Learning\CSharpCollectionsSample\CSharpCollectionsSample\obj\Debug\CSharpCollectionsSample.exe
+C:\Users\ASUS\Documents\GitHub\Learning\CSharpCollectionsSample\CSharpCollectionsSample\obj\Debug\CSharpCollectionsSample.pdb
+C:\Users\ASUS\Documents\GitHub\Learning\CSharpCollectionsSample\CSharpCollectionsSample\obj\Debug\CSharpCollectionsSample.FormQueue.resources
+C:\Users\ASUS\Documents\GitHub\Learning\CSharpCollectionsSample\CSharpCollectionsSample\obj\Debug\CSharpCollectionsSample.FormHashtable.resources
+C:\Users\ASUS\Documents\GitHub\Learning\CSharpCollectionsSample\CSharpCollectionsSample\obj\Debug\CSharpCollectionsSample.FormGenericCollection.resources
+C:\Users\ASUS\Documents\GitHub\Learning\CSharpCollectionsSample\CSharpCollectionsSample\obj\Debug\CSharpCollectionsSample.FormDictionary.resources
+C:\Users\ASUS\Documents\GitHub\Learning\CSharpCollectionsSample\CSharpCollectionsSample\obj\Debug\CSharpCollectionsSample.FormHashSet.resources
+C:\Users\ASUS\Documents\GitHub\Learning\CSharpCollectionsSample\CSharpCollectionsSample\obj\Debug\CSharpCollectionsSample.FormMylist.resources
