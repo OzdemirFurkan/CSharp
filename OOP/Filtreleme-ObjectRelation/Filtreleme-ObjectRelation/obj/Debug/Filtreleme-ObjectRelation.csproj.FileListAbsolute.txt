@@ -1,0 +1,9 @@
+C:\Users\ASUS\Documents\GitHub\Learning\Connected Architecture\Filtreleme-ObjectRelation\Filtreleme-ObjectRelation\bin\Debug\Filtreleme-ObjectRelation.exe.config
+C:\Users\ASUS\Documents\GitHub\Learning\Connected Architecture\Filtreleme-ObjectRelation\Filtreleme-ObjectRelation\bin\Debug\Filtreleme-ObjectRelation.exe
+C:\Users\ASUS\Documents\GitHub\Learning\Connected Architecture\Filtreleme-ObjectRelation\Filtreleme-ObjectRelation\bin\Debug\Filtreleme-ObjectRelation.pdb
+C:\Users\ASUS\Documents\GitHub\Learning\Connected Architecture\Filtreleme-ObjectRelation\Filtreleme-ObjectRelation\obj\Debug\Filtreleme-ObjectRelation.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\GitHub\Learning\Connected Architecture\Filtreleme-ObjectRelation\Filtreleme-ObjectRelation\obj\Debug\Filtreleme_ObjectRelation.Form1.resources
+C:\Users\ASUS\Documents\GitHub\Learning\Connected Architecture\Filtreleme-ObjectRelation\Filtreleme-ObjectRelation\obj\Debug\Filtreleme_ObjectRelation.Properties.Resources.resources
+C:\Users\ASUS\Documents\GitHub\Learning\Connected Architecture\Filtreleme-ObjectRelation\Filtreleme-ObjectRelation\obj\Debug\Filtreleme-ObjectRelation.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\GitHub\Learning\Connected Architecture\Filtreleme-ObjectRelation\Filtreleme-ObjectRelation\obj\Debug\Filtreleme-ObjectRelation.exe
+C:\Users\ASUS\Documents\GitHub\Learning\Connected Architecture\Filtreleme-ObjectRelation\Filtreleme-ObjectRelation\obj\Debug\Filtreleme-ObjectRelation.pdb

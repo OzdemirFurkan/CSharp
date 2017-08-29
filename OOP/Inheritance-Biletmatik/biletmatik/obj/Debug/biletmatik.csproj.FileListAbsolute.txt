@@ -1,0 +1,25 @@
+C:\Users\ASUS\Documents\GitHub\Learning\Connected Architecture\biletmatik\biletmatik\bin\Debug\biletmatik.exe.config
+C:\Users\ASUS\Documents\GitHub\Learning\Connected Architecture\biletmatik\biletmatik\obj\Debug\biletmatik.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\GitHub\Learning\Connected Architecture\biletmatik\biletmatik\obj\Debug\biletmatik.Form1.resources
+C:\Users\ASUS\Documents\GitHub\Learning\Connected Architecture\biletmatik\biletmatik\obj\Debug\biletmatik.Properties.Resources.resources
+C:\Users\ASUS\Documents\GitHub\Learning\Connected Architecture\biletmatik\biletmatik\obj\Debug\biletmatik.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\biletmatik\biletmatik\bin\Debug\biletmatik.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\biletmatik\biletmatik\obj\Debug\biletmatik.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\biletmatik\biletmatik\obj\Debug\biletmatik.Form1.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\biletmatik\biletmatik\obj\Debug\biletmatik.Properties.Resources.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\biletmatik\biletmatik\obj\Debug\biletmatik.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\biletmatik\biletmatik\bin\Debug\biletmatik.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\biletmatik\biletmatik\bin\Debug\biletmatik.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\biletmatik\biletmatik\obj\Debug\biletmatik.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\biletmatik\biletmatik\obj\Debug\biletmatik.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\biletmatik\biletmatik\obj\Debug\biletmatik.Form2.resources
+C:\Users\ASUS\Documents\GitHub\Learning\Inheritance-Biletmatik\biletmatik\bin\Debug\biletmatik.exe.config
+C:\Users\ASUS\Documents\GitHub\Learning\Inheritance-Biletmatik\biletmatik\obj\Debug\biletmatik.exe
+C:\Users\ASUS\Documents\GitHub\Learning\Inheritance-Biletmatik\biletmatik\obj\Debug\biletmatik.pdb
+C:\Users\ASUS\Documents\GitHub\Learning\Inheritance-Biletmatik\biletmatik\bin\Debug\biletmatik.exe
+C:\Users\ASUS\Documents\GitHub\Learning\Inheritance-Biletmatik\biletmatik\bin\Debug\biletmatik.pdb
+C:\Users\ASUS\Documents\GitHub\Learning\Inheritance-Biletmatik\biletmatik\obj\Debug\biletmatik.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\GitHub\Learning\Inheritance-Biletmatik\biletmatik\obj\Debug\biletmatik.Form1.resources
+C:\Users\ASUS\Documents\GitHub\Learning\Inheritance-Biletmatik\biletmatik\obj\Debug\biletmatik.Form2.resources
+C:\Users\ASUS\Documents\GitHub\Learning\Inheritance-Biletmatik\biletmatik\obj\Debug\biletmatik.Properties.Resources.resources
+C:\Users\ASUS\Documents\GitHub\Learning\Inheritance-Biletmatik\biletmatik\obj\Debug\biletmatik.csproj.GenerateResource.Cache

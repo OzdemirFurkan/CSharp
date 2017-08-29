@@ -1,0 +1,12 @@
+C:\Users\ASUS\Documents\GitHub\Learning\Connected Architecture\OrkestraOtomasyon\OrkestraOtomasyon\bin\Debug\OrkestraOtomasyon.exe.config
+C:\Users\ASUS\Documents\GitHub\Learning\ObjectRelation-OrkestraOtomasyon\OrkestraOtomasyon\bin\Debug\OrkestraOtomasyon.exe.config
+C:\Users\ASUS\Documents\GitHub\Learning\ObjectRelation-OrkestraOtomasyon\OrkestraOtomasyon\obj\Debug\OrkestraOtomasyon.AnaForm.resources
+C:\Users\ASUS\Documents\GitHub\Learning\ObjectRelation-OrkestraOtomasyon\OrkestraOtomasyon\obj\Debug\OrkestraOtomasyon.Properties.Resources.resources
+C:\Users\ASUS\Documents\GitHub\Learning\ObjectRelation-OrkestraOtomasyon\OrkestraOtomasyon\obj\Debug\OrkestraOtomasyon.UyeForm.resources
+C:\Users\ASUS\Documents\GitHub\Learning\ObjectRelation-OrkestraOtomasyon\OrkestraOtomasyon\obj\Debug\OrkestraOtomasyon.YoklamaForm.resources
+C:\Users\ASUS\Documents\GitHub\Learning\ObjectRelation-OrkestraOtomasyon\OrkestraOtomasyon\obj\Debug\OrkestraOtomasyon.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\GitHub\Learning\ObjectRelation-OrkestraOtomasyon\OrkestraOtomasyon\bin\Debug\OrkestraOtomasyon.exe
+C:\Users\ASUS\Documents\GitHub\Learning\ObjectRelation-OrkestraOtomasyon\OrkestraOtomasyon\bin\Debug\OrkestraOtomasyon.pdb
+C:\Users\ASUS\Documents\GitHub\Learning\ObjectRelation-OrkestraOtomasyon\OrkestraOtomasyon\obj\Debug\OrkestraOtomasyon.exe
+C:\Users\ASUS\Documents\GitHub\Learning\ObjectRelation-OrkestraOtomasyon\OrkestraOtomasyon\obj\Debug\OrkestraOtomasyon.pdb
+C:\Users\ASUS\Documents\GitHub\Learning\ObjectRelation-OrkestraOtomasyon\OrkestraOtomasyon\obj\Debug\OrkestraOtomasyon.csprojResolveAssemblyReference.cache
