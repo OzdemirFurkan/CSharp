@@ -7,3 +7,6 @@ C:\Users\ASUS\Documents\GitHub\C# Samples\DelegateSample\DelegateSample\obj\Debu
 C:\Users\ASUS\Documents\GitHub\C# Samples\DelegateSample\DelegateSample\obj\Debug\DelegateSample.csproj.GenerateResource.Cache
 C:\Users\ASUS\Documents\GitHub\C# Samples\DelegateSample\DelegateSample\obj\Debug\DelegateSample.exe
 C:\Users\ASUS\Documents\GitHub\C# Samples\DelegateSample\DelegateSample\obj\Debug\DelegateSample.pdb
+C:\Users\ASUS\Documents\GitHub\CSharp\DELEGATE\DelegateSample\DelegateSample\bin\Debug\DelegateSample.exe.config
+C:\Users\ASUS\Documents\GitHub\CSharp\DELEGATE\DelegateSample\DelegateSample\obj\Debug\DelegateSample.exe
+C:\Users\ASUS\Documents\GitHub\CSharp\DELEGATE\DelegateSample\DelegateSample\obj\Debug\DelegateSample.pdb
