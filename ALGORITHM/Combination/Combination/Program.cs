@@ -7,10 +7,10 @@ namespace Combination
         static void Main(string[] args)
         {
             Console.Write("Birinci Değeri Giriniz : ");
-            int combNum1 = Convert.ToInt32(Console.ReadLine());
+            long combNum1 = Convert.ToInt64(Console.ReadLine());
             Console.Write("Ikinci Değeri Giriniz : ");
-            int combNum2 = Convert.ToInt32(Console.ReadLine());
-            int subtract = 1,
+            long combNum2 = Convert.ToInt64(Console.ReadLine());
+            long subtract = 1,
                 result = 1,result2 = 0,result1 = 0,
                 endResult;
 
