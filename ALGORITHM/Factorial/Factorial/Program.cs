@@ -8,17 +8,16 @@ namespace Factorial
         {   
             Console.Write("Geçerli bir değer giriniz : ");
             long factorialNumber = Convert.ToInt64(Console.ReadLine());
-            long result = 0;
+            long result = 0,carry = 1;
 
-
-
+            carry = factorialNumber;
             if (factorialNumber > 0)
             {
-                for (int i = 1; i <= factorialNumber; i++)
+                for (int i = 1; i < factorialNumber; i++)
                 {
-                    result = factorialNumber * i;
+                    carry *= i;
                 }
-                Console.WriteLine("Faktöriyeli : " + result);
+                Console.WriteLine("Faktöriyeli : " + carry);
             }
             else
             {
