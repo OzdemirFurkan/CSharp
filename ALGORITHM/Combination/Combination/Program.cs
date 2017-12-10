@@ -6,6 +6,9 @@ namespace Combination
     {
         static void Main(string[] args)
         {
+
+            //n! / (r!(n-r)!)
+
             Console.Write("Birinci Değeri Giriniz : ");
             long combNum1 = Convert.ToInt64(Console.ReadLine());
             Console.Write("Ikinci Değeri Giriniz : ");
@@ -35,7 +38,7 @@ namespace Combination
             endResult = result1 / (result2 * result);
 
             Console.WriteLine("Sonuc : " + endResult);
-            
+
             Console.ReadKey();
         }
     }

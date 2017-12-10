@@ -14,8 +14,7 @@ namespace Helezon_Matrix
             
             //İki boyutlu bir dizi oluşturuyoruz. 4 x 4'lük bir dizi oluşacaktır
             int[,] eksenler = new int[klavyedenGirilenBoyut,klavyedenGirilenBoyut];
-
-
+            
             int tasiyici = 1,
                 deger1 = 0,
                 deger2 = klavyedenGirilenBoyut - 1;
